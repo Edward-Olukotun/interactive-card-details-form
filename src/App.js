@@ -7,7 +7,7 @@ import Desktop from "./images/bg-main-desktop.png";
 function App() {
   return (
     <>
-      <div className="flex flex-col justify-between overflow-hidden md:flex-row">
+      <div className="flex flex-col  overflow-hidden md:flex-row">
         <div className="h-screen ">
           <div>
             <img
@@ -26,7 +26,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div className=" w-full h-full flex -mt-96 mb-40 md:mt-0 md:w-96">
+        <div className=" w-full h-full flex -mt-96 mb-40 md:mt-0 md:w-96 md:ml-40">
           <div className="flex justify-center w-full   mt-10 md:mt-56 ">
             <form>
               <label className="flex flex-col">
