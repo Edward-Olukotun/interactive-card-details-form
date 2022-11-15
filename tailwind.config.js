@@ -11,6 +11,7 @@ module.exports = {
         'redz': '#ff5252',
         'dark': '#21092f',
         'white': '#ffffff',
+        'gray': '	#8e8593',
       },
     },
   },
